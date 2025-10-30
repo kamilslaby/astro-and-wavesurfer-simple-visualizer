@@ -1,6 +1,6 @@
 # Wavesurfer JS and Astro simple visualizer
 
-A simple visualizer created with Wavesurfer JS and Astro components. It is minimal and ready to use right away. You can copy and paste it into your own projects just like I do. Enjoy
+A simple audio visualizer component for the Astro framework created with Wavesurfer JS. It is minimal and ready to use right away. You can copy and paste it into your own projects just like I do. There might be better ways to build it but this one works well. Enjoy!
 
 ## Usage
 
